@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CuseHacks</string>
+    <string name="going_outside">Going Outside?</string>
+    <string name="_30">30</string>
+    <string name="current_temperature">Current Temperature:</string>
+    <string name="calculate_risk">Calculate Risk</string>
+    <string name="how_many_layers_of_clothing_are_you_wearing">How many layers of clothing are you wearing?</string>
+    <string name="of_layers"># of layers</string>
+    <string name="_5">-5</string>
+
+
+</resources>
