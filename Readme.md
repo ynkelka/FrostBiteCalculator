@@ -4,9 +4,10 @@ The Frostbite Calculator is an Android app that was made for Cusehacks 2020 at S
 
 ## Table of Contents
 1. [Built With](#built-with)
-2. [Authors](#authors)
-3. [License](#license)
-4. [Acknowledgements](#acknowledgements)
+2. [TODO](#todo)
+3. [Authors](#authors)
+4. [License](#license)
+5. [Acknowledgements](#acknowledgements)
 
 ## Built With
 
