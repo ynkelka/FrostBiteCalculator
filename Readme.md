@@ -23,7 +23,7 @@ The Frostbite Calculator is an Android app that was made for Cusehacks 2020 at S
 * **Tariq Kariapper** - [tariapper](https://github.com/tariapper)
 * **Yash Kelkar** - [ynkelka](https://github.com/ynkelka)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ynkelka/FrostbiteCalculator/contributors) who participated in this project.
 
 ## License
 
