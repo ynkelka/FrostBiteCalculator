@@ -1,6 +1,6 @@
 # Frostbite Calculator
 
-The Frostbite Calculator is an Android app that was made for the Cusehacks 2020 at Syracuse University. Created in 24 hours, this app uses your phone location to get current weather conditions and gives you an approximation of how long you can stay outside before getting frostbite.
+The Frostbite Calculator is an Android app that was made for Cusehacks 2020 at Syracuse University. Created in 24 hours, this app uses your phone location to get current weather conditions and gives you an approximation of how long you can stay outside before getting frostbite.
 
 ## Table of Contents
 1. [Built With](#built-with)
@@ -12,6 +12,10 @@ The Frostbite Calculator is an Android app that was made for the Cusehacks 2020 
 
 * [Android Studio](https://developer.android.com/studio/) - The software used
 * [Java](https://www.java.com/en/) - The language used
+
+## TODO
+* fix json requests
+* implement background location tracking
 
 ## Authors
 
