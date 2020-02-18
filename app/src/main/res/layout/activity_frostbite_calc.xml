@@ -68,7 +68,6 @@
         android:layout_marginBottom="299dp"
         android:textSize="40sp"
         android:textStyle="bold"
-        android:onClick="dial_onClick"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
